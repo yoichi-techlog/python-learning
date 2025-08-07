@@ -11,7 +11,9 @@
 - Google Colab ノートブック形式の学習ログ
 
 ## 🗂️ ディレクトリ構成（例）
-'''python-learning/ ├── score_analysis.ipynb         # スコア関連の演習問題 ├── basic_syntax_exercises.py    # 基本文法の練習コード ├── notes.md                     # 学習メモや気づきの記録 ├── README.md                    # このファイル'''
+'''
+python-learning/ ├── score_analysis.ipynb         # スコア関連の演習問題 ├── basic_syntax_exercises.py    # 基本文法の練習コード ├── notes.md                     # 学習メモや気づきの記録 ├── README.md                    # このファイル
+'''
 
 ## 🚀 今後追加予定の内容
 
