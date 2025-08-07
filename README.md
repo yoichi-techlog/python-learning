@@ -1,2 +1,3 @@
-# python-learning
-Python学習の記録
+# python-learning リポジトリ
+
+このリポジトリはPython学習のためのコードやメモをまとめたものです。
