@@ -13,8 +13,7 @@
 ## 🗂️ ディレクトリ構成
 ```
 python-learning/
- ├── score_analysis.ipynb         # スコア関連の演習問題
- ├── basic_syntax_exercises.py    # 基本文法の練習コード
+ ├── python_score_exercises.ipynb         # スコア関連の演習問題
  ├── notes.md                     # 学習メモや気づきの記録
  ├── README.md                    # このファイル
 ```
