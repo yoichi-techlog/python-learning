@@ -13,9 +13,10 @@
 ## 🗂️ ディレクトリ構成
 ```
 python-learning/
- ├── python_score_exercises.ipynb         # スコア関連の演習問題
+ ├── 2025-08-10_python_exercises         # スコア関連の演習問題
  ├── notes.md                     # 学習メモや気づきの記録
  ├── README.md                    # このファイル
+ ├── python_exercises_solved_unreviewed          # スコア関連の演習問題
 ```
 
 ## 🚀 今後追加予定の内容
