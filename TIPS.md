@@ -1,4 +1,4 @@
-# MEMO.md
+# TIPS.md
 
 ## Python / コーディングのちょっとした習慣・注意点
 
