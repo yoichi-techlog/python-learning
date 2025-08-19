@@ -12,6 +12,7 @@
 
 ## 📂 ディレクトリ構成
 
+- `2025-08-09_and_before_python_exercises` — 8月9日以前のスコア関連の演習問題をまとめたファイル
 - `2025-08-10_python_exercises` — スコア関連の演習問題  
 - `2025-08-14_python_exercises` — スコア関連の演習問題  
 - `2025-08-15_python_exercises` — スコア関連の演習問題  
@@ -19,7 +20,6 @@
 - [notes.md](./notes.md) — 学習メモや気づきの記録  
 - [tips.md](./tips.md) — コーディング習慣や小技のまとめ  
 - [README.md](./README.md) — このファイル  
-- `python_exercises_solved_unreviewed` — スコア関連の演習問題  
 
 ---
 
