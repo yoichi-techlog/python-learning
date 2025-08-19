@@ -10,18 +10,18 @@
 - 実践的なスコア処理の演習（例：平均・分散・標準偏差・正規化など）
 - Google Colab ノートブック形式の学習ログ
 
-## 🗂️ ディレクトリ構成
-```
-python-learning/
- ├── 2025-08-10_python_exercises         # スコア関連の演習問題
- ├── 2025-08-14_python_exercises         # スコア関連の演習問題
- ├── 2025-08-15_python_exercises         # スコア関連の演習問題
- ├── 2025-08-16_python_exercises         # スコア関連の演習問題
- ├─ [notes.md](./notes.md)           # 学習メモや気づきの記録
- ├─ [TIPS.md](./TIPS.md)             # コーディング習慣や小技のまとめ
- ├─ [README.md](./README.md)         # このファイル
- ├── python_exercises_solved_unreviewed          # スコア関連の演習問題
-```
+## 📂 ディレクトリ構成
+
+- `2025-08-10_python_exercises` — スコア関連の演習問題  
+- `2025-08-14_python_exercises` — スコア関連の演習問題  
+- `2025-08-15_python_exercises` — スコア関連の演習問題  
+- `2025-08-16_python_exercises` — スコア関連の演習問題  
+- [notes.md](./notes.md) — 学習メモや気づきの記録  
+- [TIPS.md](./TIPS.md) — コーディング習慣や小技のまとめ  
+- [README.md](./README.md) — このファイル  
+- `python_exercises_solved_unreviewed` — スコア関連の演習問題  
+
+---
 
 ## 🚀 今後追加予定の内容
 
