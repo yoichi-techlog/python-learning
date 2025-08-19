@@ -17,9 +17,9 @@ python-learning/
  ├── 2025-08-14_python_exercises         # スコア関連の演習問題
  ├── 2025-08-15_python_exercises         # スコア関連の演習問題
  ├── 2025-08-16_python_exercises         # スコア関連の演習問題
- ├── notes.md                     # 学習メモや気づきの記録
- ├── TIPS.md                      # 細かいコーディング習慣・PEP8・学習での気づき・小技集
- ├── README.md                    # このファイル
+ ├─ [notes.md](./notes.md)           # 学習メモや気づきの記録
+ ├─ [TIPS.md](./TIPS.md)             # コーディング習慣や小技のまとめ
+ ├─ [README.md](./README.md)         # このファイル
  ├── python_exercises_solved_unreviewed          # スコア関連の演習問題
 ```
 
